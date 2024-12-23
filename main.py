@@ -1,1 +1,1 @@
-print('ok')
+# t.me/dragon_talks
